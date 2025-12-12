@@ -1,6 +1,4 @@
 # Clunnect — Campus Club Management System (UTD)
-
-## Summary
 Clunnect is a club management platform built by a group of Computer Science students at The University of Texas at Dallas 🎓💻. Our goal is simple: make it easier for students to discover, join, and stay engaged with the 400+ clubs across campus. Instead of digging through scattered social media pages, flyers, or last-minute announcements, Clunnect brings everything together in one clean, centralized hub. Students can explore clubs, register for events, track upcoming activities on a personalized calendar 📅, and manage their memberships—all in one place. Club officers get powerful tools to organize events, approve members, communicate updates, and analyze engagement 📊. With streamlined communication, easy event scheduling, and an efficient admin system, Clunnect helps build a more connected, active, and collaborative UTD community 🤝💫
 
 ## Current Features
